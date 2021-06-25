@@ -97,79 +97,57 @@ https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="한국",GSTV-쇼핑
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8
-#EXTINF:-1 group-title="延边及央视",延边-1
+#EXTINF:-1 group-title="한국",가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1 group-title="한국",延边-1
 http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
-#EXTINF:-1 group-title="延边及央视",延边-2
+#EXTINF:-1 group-title="한국",延边-2
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
-#EXTINF:-1 group-title="延边及央视",延边卫视
+#EXTINF:-1 group-title="한국",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV1综合
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226316/index.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV4国际
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV5体育
+#EXTINF:-1 group-title="央视及其他",CCTV13新闻
+http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 group-title="央视及其他",CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="央视及其他",CCTV5
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV5+
-http://39.134.65.208/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV6电影
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-7军事
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-8
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-9纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-14少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 group-title="延边及央视",CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 group-title="延边及央视",CNC中文
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 group-title="延边及央视",第一财经HD
-http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 group-title="延边及央视",耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="延边及央视",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 group-title="广电",NewTV爱情喜剧
+#EXTINF:-1 group-title="央视及其他",CCTV5+
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="央视及其他",CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视及其他",NewTV爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="广电",NewTV搏击运动
+#EXTINF:-1 group-title="央视及其他",NewTV搏击运动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="广电",NewTV动画王国
+#EXTINF:-1 group-title="央视及其他",NewTV动画王国
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="广电",NewTV动作电影
+#EXTINF:-1 group-title="央视及其他",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",数码时代高清
+#EXTINF:-1 group-title="央视及其他",数码时代高清
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="影视体育其他",吉林篮球
-http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
-#EXTINF:-1 group-title="影视体育其他",SiTV极速汽车FHD
-http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",CHC高清电影
+#EXTINF:-1 group-title="央视及其他",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",CHC家庭影院
+#EXTINF:-1 group-title="央视及其他",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",欢笑剧场4K
+#EXTINF:-1 group-title="央视及其他",欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",Y + 剧场
+#EXTINF:-1 group-title="央视及其他",Y + 剧场
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",东方影视FHD
+#EXTINF:-1 group-title="央视及其他",东方影视FHD
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="影视体育其他",华侨城FHD
+#EXTINF:-1 group-title="央视及其他",华侨城FHD
 http://117.156.28.119/270000001111/1110000028/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",吉林影视
+#EXTINF:-1 group-title="央视及其他",吉林影视
 http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 group-title="影视体育其他",杭州影视FHD
+#EXTINF:-1 group-title="央视及其他",杭州影视FHD
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1 group-title="影视体育其他",江苏影视
+#EXTINF:-1 group-title="央视及其他",江苏影视
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",SiTV动漫秀场FHD
+#EXTINF:-1 group-title="央视及其他",SiTV动漫秀场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",SiTV都市剧场FHD
+#EXTINF:-1 group-title="央视及其他",SiTV都市剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="影视体育其他",SiTV欢笑剧场FHD
+#EXTINF:-1 group-title="央视及其他",SiTV欢笑剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
@@ -480,8 +458,6 @@ http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="国外音乐",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="国外音乐",Play TV
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 group-title="国外音乐",Portalfoxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -623,5 +599,3 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="国外音乐",Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="国外音乐",МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
