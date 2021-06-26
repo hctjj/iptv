@@ -105,497 +105,91 @@ http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 #EXTINF:-1 group-title="한국",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-#EXTINF:-1 group-title="央视及其他",CCTV13新闻
+#EXTINF:-1 group-title="한국",KBS1
+https://1tvhd.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1624797430&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAyLzF0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjI0Nzk3NDMwfX19XX0_&Signature=FRsa7fyRrPHMCZ9TVupwW3ibIJSDl39Mz0eaiCdqpa88MbimMUVaiJMk4XqipSmlmwMgUrYyT1dINjsRHUDCREwgADw0rFR7iN68O-63sidpZZeu8KW8BOP7JLVYzuIOdfmw9cTRVkj1u~k-Cr9mkP6~0tonZvjnT2XccFLJLoW0MahK-5H0I8p6pw7ktOf4MDTiVuLPD12BjOe~sBtNF4DX3kPe-Yp2yUEosu5tMeE~fSfPmsonqdk5hEhFhp~yLgYtA-qu58qfSlAmNBt4oF-VdiKlUqBsPDUzTBZw1GLME4H-HLnFONns2r5Tr6G39D-5y7bHzjC43z~r7I9M8w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",KBS2
+https://2tvhd.gscdn.kbs.co.kr/2tv-02/2tv-02_hd.m3u8?Expires=1624797889&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHZoZC5nc2Nkbi5rYnMuY28ua3IvMnR2LTAyLzJ0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjI0Nzk3ODg5fX19XX0_&Signature=I7tvkeNWQGpNc~iUQ9GAmNBrBtd9u0igazxtJfAyQ0KdfWmRMIiyjDWvI5lFSD19uSW4Ffmt80nRhaRh8bxU~loXTz3elz9~1grUZJ6xLrthAc~GFKCXxKCYLmFRToD1-5AzjTlOM0mrJjCr0Mqzs9h5ynKTA~-JBYlnXh9sPmvxkCGZjkuKjwx~M9-wk3glVt5dbaAVVOJGenU-iEyzbxDTMGxpvW3ROVCazdABoGNbb-DvSHxO7IsXrTgTPSBXg1L1W~EuiG~GwiDbGKjhylj7iZSvCdrE-RnCwmRaNQj7yeJXwiRF6NSIcI3inEme~saPUJEyQAhJTA1hrgF~Cw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",kbsndrama-02
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1624798241&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODI0MX19fV19&Signature=b7Y3JQgoRQilBXuFYhvdKGakkeYBC4Ul6EXY~ySid7Hf8AlzORoN-czefazEXzy1qzUxHwKO4YeW-4-8ZGRJwcq8KF1ty3YVtGyAGu8t3B9z3n-EDejpFvIgZJbySH-dPBVeX-PIxXBbM59Qdeyi69NtnVu8otKsFwEtKbuWnQw6Vh067070L29r4lwu-iMvK~GG-vOy~v1HGFrKBvYNv57nZHRN2CiQAgFp5Nl8Ls-quq-sWmALn15cVFA3Sg0sqZ-eU5WZSYVZLx-qrWSISbwLjMx8m6B1Q12dnEG2vVujHBkLSzxZ~8tCqodtdtesWvcxNS-uPZ0tmanyKNdFbw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",kbsnjoy-02
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1624798298&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODI5OH19fV19&Signature=HQDK90YBgtb~4CCJ7TquyMPYeHxV7Lw6Ri2M33zuWbxBvP9svfbVAX0Aq2tJjiCTjKNraRw3u3Xhg0LtxY8lg-tamYg4CLpF6BLPsoAI4CpmUfpBh2XsS9h7XzjaAawQR1iWOKVxXRG1fqhiMdopaTxRbou2bt7RlIj~qsdPu0XiDTDT10o1z-86yxu0k5GFxn9~O8gImcYUGPzP0NhuQ2CUVNdkUABZsfNZc8~vC4YDBv9DY6b1ZxldDvbvDIE7vGsZrQajqxz70RBOMmFf7OhUlXRgaQXhhHdUOptQVqtrPkzDejnvu-9lHcSkGTKtPaNvyvGPx14piAmF24yJhw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",kbsnw-02
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1624798333&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODMzM319fV19&Signature=D1k1QiiccYlpaE6PR02xsgH6X408vnxUBW0Vm33voND4tif~LxsxFytENwSbX3H-gfI5m~q0qbKIHywlDvLEs6CQmUQ7M0TZzN21jxZeAWpAU-iREiEjUHaH4G0ur280KCqWiK~~AWQihJ-ZOCt0YSr0IJyy~U8KzjxbZ~C9d6Q3LzvRzi8t-RgR1tWCxa8M5nDrZRQxS5t12chAdA6j8d7uvdHOCGuzR4bGBcnfon3cnEOVGwc0jslJUjAW4nd12trz3fy93jwp7jMZ0MV6A40q6VtBMk-HYonEZ2iJkpvwshCh21VvzV13ll-7OUkDwgJTllSteay9-MneCcPaUQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",kbsnlife-02
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1624798460&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODQ2MH19fV19&Signature=Qqb8yWWOAVag6B9ODJQK9vhtm6H7pt1VId0D1olrVYreC662q3XXys7~mAYhcxgDCGouQlRSnB2deLWW5jMA70qmPb13Fh4kUcYJk453qrps4EHjJtOyIwsWgM4lHfE7vZgSt0yeBwZudDWi0evxGD5qPpSIXD3QVSNCrWuwn-vaqjqRcoD5DhzCLeIq8NXMtZpSSNB0XzfEr0L~~iwNQtGuY0xSB12iXLwGuphkSGZi-9SFxLe61wEFmOn577G19aWm7zOnbinraudNx0Ye7kSZlsSRZSfExZbMilFZs~7irAvitNKYs5sEvmJnsyNVWnpegX7PYQJvPBugnjWc3Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",kbsnkids-02
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1624798538&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODUzOH19fV19&Signature=Yw4wr55Y9t9d~GLYD2t2FJqije334UC-g687h1kgvqWIi3Tf2NyF2polqYy1rdcipfxDgET3aRmftQWGq2fNWfP6pTlkcI2s73~hjKqDaeOc0XVa6FFg5lfpSlSJ9IyKOZDud9v12hYu8cKtNqAkt7-CHMcvIjRPeyp-CHrCv~Lz4HVjZpF7imo~ghaX1TAj9wQq1~Ofn2mxXELM3MJX0lbRYeI76tDrnM~qt-p2tiWncyvj3lgWNsQXz8Bch0xWMR4ZszhLsh6XJgKBaM0pas16gsAtHnR-ERO~Inj7omw6Z4duO-Gv5mshUNANFu7cftt5Iz~SpMlC~ZLTNf8-tg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="한국",KBS2world
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1624798667&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyNDc5ODY2N319fV19&Signature=kAVNHqpogLdW79HKt39mcy7qbhMf~RHpvN9FE96t7xVOHmzXyxkpxF~dT7fNEJVO8ott-QB64H7zCnJ0pQv9sshzfQxDZG39ERe28FDLH42QmcyTvdo3xf-4lYU0DiLzRf1YdjDrBxR~uV6Q-5XHQWI4yQ46wL8w3104dd8DOg3LDXKjHYYPt3mW-nkJNUa4W5H5w5W0YotacbfrkXNFiHwvX6nduhlwBxHnmLtoUG~3CKEZY4yiHub3atf8xphGTIAvITv6SBZ9oBIsGkIVpLlYQF9YH9nORt~MJxjIWdMhTmmUoddvp6monsqrKtNzWpuDLcQKGpbOUw60p2f3rA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 group-title="央视\港澳台\其他",CCTV13新闻
 http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视及其他",CCTV1
+#EXTINF:-1 group-title="央视\港澳台\其他",CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视及其他",CCTV5
+#EXTINF:-1 group-title="央视\港澳台\其他",CCTV5
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 group-title="央视及其他",CCTV5+
+#EXTINF:-1 group-title="央视\港澳台\其他",CCTV5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="央视及其他",CCTV6
+#EXTINF:-1 group-title="央视\港澳台\其他",CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视及其他",NewTV爱情喜剧
+#EXTINF:-1 group-title="央视\港澳台\其他",NewTV爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="央视及其他",NewTV搏击运动
+#EXTINF:-1 group-title="央视\港澳台\其他",NewTV搏击运动
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 group-title="央视及其他",NewTV动画王国
+#EXTINF:-1 group-title="央视\港澳台\其他",NewTV动画王国
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="央视及其他",NewTV动作电影
+#EXTINF:-1 group-title="央视\港澳台\其他",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 group-title="央视及其他",数码时代高清
+#EXTINF:-1 group-title="央视\港澳台\其他",数码时代高清
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="央视及其他",CHC高清电影
+#EXTINF:-1 group-title="央视\港澳台\其他",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="央视及其他",CHC家庭影院
+#EXTINF:-1 group-title="央视\港澳台\其他",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="央视及其他",欢笑剧场4K
+#EXTINF:-1 group-title="央视\港澳台\其他",欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="央视及其他",Y + 剧场
+#EXTINF:-1 group-title="央视\港澳台\其他",Y + 剧场
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1 group-title="央视及其他",东方影视FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",东方影视FHD
 http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="央视及其他",华侨城FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",华侨城FHD
 http://117.156.28.119/270000001111/1110000028/index.m3u8
-#EXTINF:-1 group-title="央视及其他",吉林影视
+#EXTINF:-1 group-title="央视\港澳台\其他",吉林影视
 http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 group-title="央视及其他",杭州影视FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",杭州影视FHD
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1 group-title="央视及其他",江苏影视
+#EXTINF:-1 group-title="央视\港澳台\其他",江苏影视
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 group-title="央视及其他",SiTV动漫秀场FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",SiTV动漫秀场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 group-title="央视及其他",SiTV都市剧场FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",SiTV都市剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="央视及其他",SiTV欢笑剧场FHD
+#EXTINF:-1 group-title="央视\港澳台\其他",SiTV欢笑剧场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
+#EXTINF:-1 group-title="央视\港澳台\其他",凤凰资讯
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="港澳台",香港C
+#EXTINF:-1 group-title="央视\港澳台\其他",香港C
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港澳台",唯心電視
+#EXTINF:-1 group-title="央视\港澳台\其他",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="港澳台",原住民電視
+#EXTINF:-1 group-title="央视\港澳台\其他",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="港澳台",CBS新闻
+#EXTINF:-1 group-title="央视\港澳台\其他",CBS新闻
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="港澳台",大愛1
+#EXTINF:-1 group-title="央视\港澳台\其他",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大愛2
+#EXTINF:-1 group-title="央视\港澳台\其他",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",大立電視
+#EXTINF:-1 group-title="央视\港澳台\其他",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台",華藏衛視
+#EXTINF:-1 group-title="央视\港澳台\其他",華藏衛視
 http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门卫视
+#EXTINF:-1 group-title="央视\港澳台\其他",澳门卫视
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 group-title="港澳台",好消息电视台1
+#EXTINF:-1 group-title="央视\港澳台\其他",好消息电视台1
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 group-title="港澳台",好消息电视台2
+#EXTINF:-1 group-title="央视\港澳台\其他",好消息电视台2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="港澳台",亚洲新闻
+#EXTINF:-1 group-title="央视\港澳台\其他",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="港澳台",Indigenous TV (720p)
+#EXTINF:-1 group-title="央视\港澳台\其他",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新聞
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",三立新聞
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="港澳台",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="国外体育",Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="国外体育",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国外体育",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="国外体育",Edge Sport
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="国外体育",Fox Sports 2 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="国外体育",Fox Sports 3 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="国外体育",Fox Sports Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="国外体育",FreeSports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1 group-title="国外体育",GEM Fit
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
-#EXTINF:-1 group-title="国外体育",GRVTY
-https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
-#EXTINF:-1 group-title="国外体育",KBP SPORTS
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",LookSport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="国外体育",LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="国外体育",LookSport Plus
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="国外体育",MLB Network
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="国外体育",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="国外体育",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 group-title="国外体育",Rede Globo
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",San Marino RTV Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
-#EXTINF:-1 group-title="国外体育",Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 group-title="国外体育",Snowy Mountains Television
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 group-title="国外体育",Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="国外体育",tv2 - Sport
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 group-title="国外体育",Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="国外体育",Wired2Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="国外体育",30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="国外体育",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",AKC TV
-https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
-#EXTINF:-1 group-title="国外体育",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-#EXTINF:-1 group-title="国外体育",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
-#EXTINF:-1 group-title="国外体育",AKC TV - Meet the Breeds
-https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
-#EXTINF:-1 group-title="国外体育",AKC TV - Puppies
-https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
-#EXTINF:-1 group-title="国外体育",Beity
-http://82.212.74.2:8000/live/7312.m3u8
-#EXTINF:-1 group-title="国外体育",Canal do Boi
-https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
-#EXTINF:-1 group-title="国外体育",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Mobcrush
-https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 group-title="国外体育",The Bob Ross Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="国外体育",Swamiji TV
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外体育",Дайвинг.TV
-https://strm.yandex.ru/kal/diving/diving0.m3u8
-#EXTINF:-1 group-title="国外音乐",101 Tele Antequera
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:-1 group-title="国外音乐",1HD Music Television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="国外音乐",1Music Channel Hungary
-http://1music.hu/1music.m3u8
-#EXTINF:-1 group-title="国外音乐",30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="国外音乐",4 Turk Music
-http://51.210.199.30/hls/stream.m3u8
-#EXTINF:-1 group-title="国外音乐",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",90s Loop
-https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="国外音乐",A NEWSJATT TV- Bhangra Flava
-http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Afrobeats (AFR)
-https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Alegria TV
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="国外音乐",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Baraza TV
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Baraza TV Greek Music Hits
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Best Cable Music
-https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Best Cable Más Cumbia
-https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 group-title="国外音乐",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
-#EXTINF:-1 group-title="国外音乐",California Music Channel(CMTV)-US
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 group-title="国外音乐",Channel 24
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
-#EXTINF:-1 group-title="国外音乐",Cine Voice
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 group-title="国外音乐",City Music TV
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",CMC 2 (US)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-#EXTINF:-1 group-title="国外音乐",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Conecta TV HD
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",DanceStar TV (UK)
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",DeeJay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-title="国外音乐",DeeJay TV
-https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 group-title="国外音乐",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="国外音乐",Desi Channel
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 group-title="国外音乐",Deutsches Musik Fernsehen
-http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
-#EXTINF:-1 group-title="国外音乐",EBC1 TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",EuroAl TV
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-#EXTINF:-1 group-title="国外音乐",Falastini
-http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",FreshTV
-https://strm.yandex.ru/kal/fresh/fresh0.m3u8
-#EXTINF:-1 group-title="国外音乐",Galáctica TV (Peru)
-https://envivo.galacticatv.com:3913/stream/play.m3u8
-#EXTINF:-1 group-title="国外音乐",GEM Latino
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
-#EXTINF:-1 group-title="国外音乐",GEM Life TV
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
-#EXTINF:-1 group-title="国外音乐",GEM Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_960x540_2000k.m3u8
-#EXTINF:-1 group-title="国外音乐",GO-RTV
-http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Hits 360 HD
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Jawhara FM
-http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 group-title="国外音乐",Karibena HD
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Karibeña
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 group-title="国外音乐",KISS TV
-https://cast.cdnseguro.com:19360/8094/8094.m3u8
-#EXTINF:-1 group-title="国外音乐",Kronehit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="国外音乐",Kronehit
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="国外音乐",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
-#EXTINF:-1 group-title="国外音乐",Kuriakos Music
-http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 group-title="国外音乐",Latido Music (US)
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Latido Music HD
-https://vidaprimo-distroscale.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 group-title="国外音乐",LFM (CH)
-https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
-#EXTINF:-1 group-title="国外音乐",Local Now Music
-https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",M1
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 group-title="国外音乐",M2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="国外音乐",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="国外音乐",M2O IT
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 group-title="国外音乐",Magic TV
-https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Marah FM
-http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Mastiii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",MH1 Music
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",MM TV (BG)
-https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
-#EXTINF:-1 group-title="国外音乐",MTV Hits Europe
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik AMVA 2020 (RS)
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Cafe&Club Serbia
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik HipHop Serbia
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Jeka Serbia
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Mediteraneo Serbia
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik OKK Serbia
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Replay Serbia
-https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Rock&Roll Serbia
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Saculatac Serbia
-https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik TV Serbia
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Muzzik Worldwide Serbia
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",NG
-http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Nojoum TV
-http://51.210.199.41/hls/stream.m3u8
-#EXTINF:-1 group-title="国外音乐",ON TV
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-#EXTINF:-1 group-title="国外音乐",Onda Digital
-http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Orient Radio + Palestine Mubasher
-http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国外音乐",Oxigeno TV
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Play TV
-http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Portalfoxmix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Portalfoxmix
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Portalfoxmix
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Qello Concerts by Stingray
-https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8
-#EXTINF:-1 group-title="国外音乐",Qmusic
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Bellla&Monella TV
-https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Contact
-https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Italia TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Javan TV
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Javan TV
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b2892000.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Javan TV
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Kiss Kiss TV
-https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Piter Pan TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio PROS
-http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio San Borja TV
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Radionorba TV
-http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Reload
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Reload Radio
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="国外音乐",Retro Music TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Retro Plus 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Retro Plus HD
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Retro Music TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",RetroMusicTV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
-#EXTINF:-1 group-title="国外音乐",Rewind HD
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Rotana Radio Jordan
-http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",RU.TV
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",RU.TV
-https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
-#EXTINF:-1 group-title="国外音乐",RU.TV
-https://rut-v.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 group-title="国外音乐",RU.TV
-https://rutv.gcdn.co/streams/1410_95/1080n/index.m3u8
-#EXTINF:-1 group-title="国外音乐",RU.TV
-https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Ruidos FM
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Stereo TV (Peru)
-https://servers.amelbasoluciones.co:19360/5medialive/5medialive.m3u8
-#EXTINF:-1 group-title="国外音乐",Stingray Pop Adult (STIRR)
-https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
-#EXTINF:-1 group-title="国外音乐",Stingray Rock Alternative (STIRR)
-https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
-#EXTINF:-1 group-title="国外音乐",Stingray Today's Latin Pop (STIRR)
-https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 group-title="国外音乐",Stingray Urban Beats (STIRR)
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:-1 group-title="国外音乐",T2 TV
-http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Techno Warehouse (US)
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="国外音乐",TeleMusica HD
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",The Country Network
-https://ott.streann.com/loadbalancer/services/public/channels/5fac1ab92cdcdff351a7123c/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Top Music
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 group-title="国外音乐",TV Duga Plus
-http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8
-#EXTINF:-1 group-title="国外音乐",UpperA Balkan TV (AT)
-http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="国外音乐",UTV
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",V2BEAT
-https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",VEVO 2K (US)
-https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:-1 group-title="国外音乐",VEVO Country (US)
-https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
-#EXTINF:-1 group-title="国外音乐",VEVO Hip Hop (US)
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1 group-title="国外音乐",VEVO Latino (US)
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 group-title="国外音乐",VEVO R&B (US)
-https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
-#EXTINF:-1 group-title="国外音乐",VH1 Italia
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 group-title="国外音乐",Videorola HD
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Visión TV Musica (Peru)
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",VIVA Russia
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 group-title="国外音乐",Wham TV
-https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",World Street Music
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Xalastra TV
-https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",XITE (BE)
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 group-title="国外音乐",Xtra TV HD
-https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Zapping Music HD
-https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",ZU TV
-https://ivm.antenaplay.ro/live/zutv/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="国外音乐",Óčko Star
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="国外音乐",Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 group-title="国外音乐",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
